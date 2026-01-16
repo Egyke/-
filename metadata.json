@@ -1,0 +1,5 @@
+{
+  "name": "全球探索地图",
+  "description": "一个互动的全球平铺地图，用户可以选择国家，将其在深灰色背景上点亮为橙色。",
+  "requestFramePermissions": []
+}
